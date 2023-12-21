@@ -1,0 +1,98 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.post1,
+.main01 {
+  margin-left: 5px;
+  padding: 5px;
+}
+
+/*  
+Following Codes style the Posts
+*/
+.post1 {
+  display: flex;
+}
+.post11 {
+  flex: 5;
+}
+.post12 {
+  flex: 10;
+}
+.post13 {
+  flex: 80;
+}
+
+/* Main Container COntains Contains Maincontent or Post Container and Navbar or Sidebar*/
+.maincontainer {
+  display: flex;
+  margin: 0px 10px 0px 10px;
+}
+.maincontent {
+  flex: 80;
+  background-color: black;
+}
+
+/*  Header Styling*/
+.newbar {
+  background-color: black;
+  text-align: center;
+  padding-left: 6px;
+}
+.newbar h5 {
+  display: inline;
+  padding-right: 40px;
+}
+.row {
+  border: 4px white solid;
+}
+.logo {
+  border: none;
+  text-align: center;
+}
+.paragraph1 {
+  color: #04f7e7;
+}
+
+/* Side Bar */
+.navbar {
+  flex: 20;
+  padding-left:20px;
+}
+.navbar div .row {
+  border: none;
+}
+form input {
+  color: #e707ef;
+}
+.Uname {
+  border: 1px white solid;s
+}
+.premiumsection {
+  text-align: center;
+  border: 1px yellow solid;
+}
+
+/* Footer */
+.footer1 {
+	display:flex;
+	text-align:center;
+	padding-left:10px;
+	justify-content:center;
+}
+.footerul1{
+	align-items:center;
+	border: 1px yellow solid;
+	padding-right:30px;
+}
+
+.footerul2,.footerul3,.footerul4{
+	align-items:center;
+	border: 1px yellow solid;
+	padding-right:30px;
+}
+.privacy{
+  text-align:center;
+}
+
