@@ -13,3 +13,4 @@ Light Mode/Colour Change<br/>
 Featured Subreddits<br/>
 Posts<br/>
 Login Mode/Sign Up<br/>
+Make navbar and header fixed
