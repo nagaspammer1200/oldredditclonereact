@@ -2,14 +2,14 @@ I created a clone of the website Old Reddit using React JS and Material CSS from
 The Codesandbox link is as follows: https://codesandbox.io/p/sandbox/festive-cloud-kfyyng
 
 
-Things To Do
-Recommendation System
-Additional Icons
-Infinite Scrolling
-Search Bar Colour
-Date
-Favicon
-Light Mode/Colour Change
-Featured Subreddits
-Posts
-Login Mode/Sign Up
+Things To Do<br/>
+Recommendation System<br/>
+Additional Icons<br/>
+Infinite Scrolling<br/>
+Search Bar Colour<br/>
+Date<br/>
+Favicon<br/>
+Light Mode/Colour Change<br/>
+Featured Subreddits<br/>
+Posts<br/>
+Login Mode/Sign Up<br/>
