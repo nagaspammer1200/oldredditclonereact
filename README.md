@@ -5,11 +5,13 @@ was developed in Codesandbox - https://codesandbox.io/.
   Live Deployment using Codesandbox - https://codesandbox.io/p/sandbox/festive-cloud-kfyyng
 
 Technologies used
+
   React JS<br/>
   Materialize CSS<br/>
   Codesandbox<br/>
 
 To Update
+
   Additional Icons<br/>
   Date<br/>
   Infinite Scrolling<br/>
