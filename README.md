@@ -1,8 +1,8 @@
 This Project is an Implementation of my previous Project https://github.com/nagaspammer1200/Reddit-Clone using React JS and Materialize CSS. The Project
 was developed in Codesandbox - https://codesandbox.io/. 
 
-  Link To My Codesandbox - https://codesandbox.io/p/sandbox/festive-cloud-kfyyng
-  Live Deployment using Codesandbox - https://codesandbox.io/p/sandbox/festive-cloud-kfyyng
+  Link To My Codesandbox - https://codesandbox.io/p/sandbox/festive-cloud-kfyyng <br/>
+  Live Deployment using Codesandbox - https://codesandbox.io/p/sandbox/festive-cloud-kfyyng<br/>
 
 Technologies used
 
